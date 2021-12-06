@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "execa": "latest",
     "vue": "^3.0.0",
+    "vue-multiselect": "^2.1.6",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0",
-    "execa": "latest"
+    "vuex": "^4.0.0-0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
